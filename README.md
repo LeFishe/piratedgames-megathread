@@ -7,7 +7,7 @@
 
 Other noteworthy mentions:
 
-- [1337X](https://1337x.to/) - Has lots of content, well moderated.
+- [1337X](https://1337x.to/) - Has lots of content, well moderated. Before going there though, don't torrent from IGGGAMESCOM, haxNode, or CracksHash as they are suspicious users and had uploaded malware in the past.
 - [Mac Torrents](https://mac-torrents.io/mac-games/) - Mac torrents.
 - [NXMAC](https://nxmac.com/) - MAC games.
 - [RuTor](http://www.rutor.info/) - Russian Torrent Tracker.
@@ -53,15 +53,17 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Gnarly](https://gnarly-repacks.site/)
 - [KaosKrew](https://kaoskrew.org/)
 - [Kapital Sin](http://www.kapitalsin.com/forum/)
-- [M4ckD0ge](https://m4ckd0ge-repacks.me/)
+- [M4CKD0GE](https://m4ckd0ge-repacks.me/)
 - [Masquerade](https://masquerade.site/)
 - MJ DJ
 - R.G. Catalyst
 - R.G. Mechanics
 - R.G. Revenants
 - [Scooter Repacks](https://scooter-repacks.site/)
+- [Le Fishe Repacks](https://lefishe-repacks.rf.gd)
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX
+- [The MegaDrive Discord](https://discord.gg/FQ6EaprXyr)
 
 ## **Release Networks**
 
@@ -102,6 +104,7 @@ Other noteworthy mentions:
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download)
 - [PicoTorrent](https://picotorrent.org/download/)
 - [Transmission](https://transmissionbt.com/download/)
+- [Tixati](https://tixati.com)
 
 ## **Direct Downloading Software:**
 
@@ -181,6 +184,7 @@ More trusted DNS providers can be found [here](https://www.privacytools.io/provi
 - [VPN Comparison Chart](https://thatoneprivacysite.net/vpn-comparison-chart/)
 
 **Tor is NOT a VPN, it will not protect you when torrenting!**
+**Free VPNs aren't worth it and always find a way to make money off of you, whether its from logging, spyware, tracking, you name it! ProtonVPN and RiseUpVPN are fine, but you cannot torrent with them**
 
 ## **Unsafe software:**
 
@@ -200,6 +204,8 @@ More trusted DNS providers can be found [here](https://www.privacytools.io/provi
 - Pirate Bay - Malware Risk
 - Kickass Torrents - Malware Risk
 - Any site with a scene group name in the URL - **SCENE GROUPS DON'T HAVE SITES!**
+- Seyter/Qoob - Caught with putting miners and malware in releases
+- CorePacks - Repacking group that put malware into releases. 
 
 Anybody caught linking a website the moderators deem unsafe will have their comments removed in order to keep people safe on the subreddit!
 
