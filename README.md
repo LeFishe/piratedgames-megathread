@@ -35,6 +35,7 @@ Other noteworthy mentions:
 - [SCNLOG.ME](https://scnlog.me/) - DDL Scene Releases.
 - [SteamUnlocked](https://steamunlocked.net/)
 - [Torrminatorr Forum](https://forum.torrminatorr.com/) - DDL games - Scene games and GOG Releases.
+- [The MegaDrive Discord](https://discord.gg/FQ6EaprXyr)
 
 Oculus Quest users can download games from [this thread](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) on [CS.RIN.RU](http://cs.rin.ru/) forum. [This post](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) is also helpful.
 
@@ -63,7 +64,6 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Le Fishe Repacks](https://lefishe-repacks.rf.gd)
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX
-- [The MegaDrive Discord](https://discord.gg/FQ6EaprXyr)
 
 ## **Release Networks**
 
