@@ -15,6 +15,8 @@ Other noteworthy mentions:
 - [Rustorka](http://rustorka.com/) - Russian Torrent Tracker.
 - [Tapochek](https://tapochek.net/index.php) - Russian Torrent Tracker.
 - [Torrents.csv](https://torrents-csv.ml/) - Easy viewing torrent search engine.
+- [MacDrop](https://macdrop.net/) - Mac Torrents.
+- [TorrentMac](https://www.torrentmac.net/) - Mac Torrents.
 
 **We do not recommend The Pirate Bay or Kickass Torrents due to how easy it is to pick up malware.**
 
@@ -62,6 +64,8 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Scooter Repacks](https://scooter-repacks.site/)
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX
+- [Le Fishe Repacks](https://lefishe-repacks.rf.gd/)
+
 
 ## **Release Networks**
 
@@ -86,7 +90,7 @@ Please note that the "crackwatch" website is not recommended since it is not off
 - [The Eye](http://the-eye.eu/public/rom/)
 - [TheRomDepot](https://theromdepot.com/)
 - [Romulation](https://www.romulation.net/)
-- r/ROMS
+- [r/Roms](https://r-roms.github.io/)
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com/) - DDL site for Nintendo and Playstation ROMS.
 
@@ -102,6 +106,13 @@ Other noteworthy mentions:
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download)
 - [PicoTorrent](https://picotorrent.org/download/)
 - [Transmission](https://transmissionbt.com/download/)
+
+## **Torrenting tools:**
+- [XIU2's Tracker list](https://github.com/XIU2/TrackersListCollection) - One of the largest torrent tracker collections
+- [Radarr](https://github.com/Radarr/Radarr) - Radarr is a movie collection manager for Usenet and BitTorrent users
+= [Sonarr](https://github.com/Sonarr/Sonarr)
+- [Jackett](https://github.com/Jackett/Jackett)
+- [qBittorrent.ipnyb](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - A Google Colab that torrents to google drive.
 
 ## **Direct Downloading Software:**
 
@@ -125,6 +136,9 @@ Other noteworthy mentions:
 
 - [AllDebrid](https://alldebrid.com/)
 - [Premiumize](https://www.premiumize.me/)
+- [Deepbrid](https://www.deepbrid.com/service) - Free Debrid service
+- [NeoDebrid](https://neodebrid.com/home)
+- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
 
 ## **Tools:**
 These tools are helpful with cracking your own games.
@@ -142,6 +156,7 @@ These tools are helpful with cracking your own games.
 - [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - A Broad Collection of Steam Tools
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulate Steam
 - [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - Remove Steam DRM from EXE files (to be used with a Steam Emulator)
+- [Koalageddon](https://github.com/acidicoala/Koalageddon/) - Legit DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay (R1)
 
 ## **Useful Software:**
 
@@ -152,6 +167,8 @@ These tools are helpful with cracking your own games.
 - [QuickSFV](https://www.quicksfv.org/download.html) - Verify checksums and generate hash info.
 - [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
 - [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
+- [CompactGUI](https://github.com/ImminentFate/CompactGUI) 
+- [Radmin VPN](https://www.radmin-vpn.com/) - Usefull if you want to play LAN games with your friends. **Not a subsitute for a normal VPN**
 
 **Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)**
 
@@ -165,6 +182,7 @@ These don't help much with online piracy, but will make your browsing much more 
 - Trace
 - [Ublock Origin](https://github.com/gorhill/uBlock)
 - [Universal Bypass](https://universal-bypass.org/)
+- DuckDuckGo Privacy Essentials
 
 ## **DNS:**
 
@@ -176,7 +194,7 @@ More trusted DNS providers can be found [here](https://www.privacytools.io/provi
 
 ## **VPNs:**
 
-- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards r/VPN.
+- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards [r/VPN](https://www.reddit.com/r/VPN/).
 - [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
 - [VPN Comparison Chart](https://thatoneprivacysite.net/vpn-comparison-chart/)
 
