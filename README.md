@@ -65,7 +65,7 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - R.G. Catalyst - Torrents
 - R.G. Mechanics - Torrents
 - R.G. Revenants - Torrents
-- [Scooter Repacks](https://scooter-repacks.site/) - Repacks for Online-Fixes and Games
+- [SC00T3R Repacks](https://scooter-repacks.site/) - Repacks for Online-Fixes and Games
 - [Le Fishe Repacks](https://lefishe-repacks.rf.gd) 
 - [Xatab](https://xatab-repack.com/) 
 - ZAZIX - Torrents
