@@ -168,7 +168,7 @@ These tools are helpful with cracking your own games.
 - [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
 - [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
 - [CompactGUI](https://github.com/ImminentFate/CompactGUI) 
-- [Radmin VPN](https://www.radmin-vpn.com/) - Usefull if you want to play LAN games with your friends. **Not a subsitute for a normal VPN**
+- [Radmin VPN](https://www.radmin-vpn.com/) - Useful if you want to play LAN games with your friends. **Not a subsitute for a normal VPN**
 
 **Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)**
 
