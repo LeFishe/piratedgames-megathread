@@ -1,4 +1,4 @@
-## piratedgames-megathread
+## r/PiratedGames MegaThread
 
 **Here's the r/PiratedGames Mega Thread!**
 
@@ -20,6 +20,8 @@ Other noteworthy mentions:
 - [Rustorka](http://rustorka.com/) - Russian Torrent Tracker.
 - [Tapochek](https://tapochek.net/index.php) - Russian Torrent Tracker.
 - [Torrents.csv](https://torrents-csv.ml/) - Easy viewing torrent search engine.
+- [TorrentMac](https://www.torrentmac.net/) - Mac Torrents.
+- [MacDrop](https://macdrop.net/) - Mac Torrents.
 
 **We do not recommend The Pirate Bay or Kickass Torrents due to how easy it is to pick up malware.**
 
@@ -32,7 +34,7 @@ Other noteworthy mentions:
 - [GLOAD](https://gload.cc/) - German DDL site.
 - [Gamesdrive.co](https://gamesdrive.co/) - Repacks and Scene game downloads.
 - [GOG Games](https://gog-games.com/) - GOG Games.
-- [Mobilisim](https://forum.mobilism.org/index.php) - Mobile apps and games.
+- [Mobilism](https://forum.mobilism.org/index.php) - Mobile apps and games.
 - [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
 - [Online-fix.me](https://online-fix.me/) - Online multiplayer games.
 - [Ovagames](http://www.ovagames.com/) - DDL Games.
@@ -93,7 +95,7 @@ Please note that the "crackwatch" website is not recommended since it is not off
 - [The Eye](http://the-eye.eu/public/rom/) - Huge ROM Archive 
 - [TheRomDepot](https://theromdepot.com/)
 - [Romulation](https://www.romulation.net/)
-- r/ROMS
+- [r/ROMS](https://reddit.com/r/ROMS)
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com/) - DDL site for Nintendo and Playstation ROMS.
 
@@ -111,6 +113,15 @@ Other noteworthy mentions:
 - [Transmission](https://transmissionbt.com/download/)
 - [Tixati](https://tixati.com)
 - [LibTorrent](libtorrent.org)
+
+## **Torrenting Tools**
+
+- [XIU2's Tracker list](https://github.com/XIU2/TrackersListCollection) - One of the largest torrent tracker collections
+- [NgoSang Tracker list](https://github.com/ngosang/trackerslist)
+- [Radarr](https://github.com/Radarr/Radarr) - Radarr is a movie collection manager for Usenet and BitTorrent users
+- [Sonarr](https://github.com/Sonarr/Sonarr)
+- [Jackett](https://github.com/Jackett/Jackett)
+- [qBittorrent.ipnyb](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - A Google Colab that torrents to google drive.
 
 ## **Direct Downloading Software:**
 
@@ -134,6 +145,9 @@ Other noteworthy mentions:
 
 - [AllDebrid](https://alldebrid.com/)
 - [Premiumize](https://www.premiumize.me/)
+- [Deepbrid](https://www.deepbrid.com/service) - Free Debrid service
+- [NeoDebrid](https://neodebrid.com/home)
+- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
 
 ## **Tools:**
 These tools are helpful with cracking your own games.
@@ -146,6 +160,7 @@ These tools are helpful with cracking your own games.
 - [GoldBerg Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulate Steam
 - [Lucky Patcher](https://www.luckypatchers.com/) - Patch Android Apps (better with root)
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulate Uplay
+- [Koalageddon](https://github.com/acidicoala/Koalageddon/) - Legit DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay (R1)
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
 - [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Unlock pirated DLC in legitimate Origin games. Only confirmed working for The Sims 4.
 - [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - A Broad Collection of Steam Tools
@@ -159,8 +174,13 @@ These tools are helpful with cracking your own games.
 - [BleachBit](https://www.bleachbit.org/) - System Cleaner, safer than CCLeaner.
 - [Bitwarden](https://bitwarden.com/) - Open Source Password Management Solution.
 - [QuickSFV](https://www.quicksfv.org/download.html) - Verify checksums and generate hash info.
+- [DashHass](https://codeberg.org/CerdaCodes/DashHash) - Alternative to QuickSFV
 - [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
 - [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
+- [CompactGUI](https://github.com/ImminentFate/CompactGUI) 
+- [Radmin VPN](https://www.radmin-vpn.com/) - Usefull if you want to play LAN games with your friends. **Not a subsitute for a normal VPN**
+- [Cyberduck](https://cyberduck.io) - Manage your Cloud Services and copy files to other places. Free and open-source, better than AirExplorer.
+- [AirExplorer](https://airexplorer.net) - Alternative to CyberDuck. Is proprietary and has a paid version which is good.
 
 **Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)**
 
@@ -187,7 +207,7 @@ NOTE: DO NOT USE CLOUDFARE DNS OR YOUR ISP'S DNS AS IT IS NOT GOOD AND NOT WORTH
 
 ## **VPNs:**
 
-- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards r/VPN.
+- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards [r/VPN](https://reddit.com/r/VPN).
 - [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
 - [VPN Comparison Chart](https://thatoneprivacysite.net/vpn-comparison-chart/)
 
