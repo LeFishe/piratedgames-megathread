@@ -112,7 +112,7 @@ Other noteworthy mentions:
 - [PicoTorrent](https://picotorrent.org/download/)
 - [Transmission](https://transmissionbt.com/download/)
 - [Tixati](https://tixati.com)
-- [LibTorrent](libtorrent.org)
+- [LibTorrent](https://www.libtorrent.org/)
 
 ## **Torrenting Tools**
 
