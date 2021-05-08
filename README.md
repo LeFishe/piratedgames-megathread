@@ -63,7 +63,7 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Kapital Sin](http://www.kapitalsin.com/forum/)
 - [M4CKD0GE](https://m4ckd0ge-repacks.me/) 
 - [Masquerade](https://masquerade.site/)
-- MJ DJ - Torrents
+- MR DJ - Torrents
 - R.G. Catalyst - Torrents
 - R.G. Mechanics - Torrents
 - R.G. Revenants - Torrents
