@@ -70,6 +70,8 @@ Other noteworthy mentions:
 
 Oculus Quest users can download games from [this thread](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) on [CS.RIN.RU](http://cs.rin.ru/) forum. [This post](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) is also helpful.
 
+For a good alternative to CS.RIN.RU on VR Games is VRPirates Discord and Telegram. The Telegram is better since it has more content and provides downloads. Discord is inactive for a good amount of some days, so I would recommend the Telegram. [VRPirates Telegram](https://t.me/VRPirates) and [VRPirates Discord](https://discord.gg/D9rs7TM). 
+
 **For Crack Only content, NoCD fixes and trainers, go to [GameCopyWorld](https://gamecopyworld.com/games/index.php).**
 
 ## **Repacks:**
