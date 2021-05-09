@@ -25,6 +25,30 @@ Other noteworthy mentions:
 
 **We do not recommend The Pirate Bay or Kickass Torrents due to how easy it is to pick up malware.**
 
+## **Torrent Software:**
+
+To torrent, use these programs:
+
+- **Moderators' choice: [Qbittorrent](https://www.qbittorrent.org/download.php)**
+
+Other noteworthy mentions:
+
+- [BiglyBT](https://www.biglybt.com/download/) - Torrent client that is available on PC and your mobile Device
+- [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Probably the most popular alternative to qBitTorrent.
+- [PicoTorrent](https://picotorrent.org/download/) 
+- [Transmission](https://transmissionbt.com/download/) 
+- [Tixati](https://tixati.com) - Torrent Client that can be Portable
+- [LibTorrent](https://www.libtorrent.org/) - One of the most popular Torrent Clients
+
+## **Torrenting Tools**
+
+- [XIU2's Tracker list](https://github.com/XIU2/TrackersListCollection) - One of the largest torrent tracker collections
+- [NgoSang Tracker list](https://github.com/ngosang/trackerslist) - Tracker Collection that only collects mostly high quality trackers.
+- [Radarr](https://github.com/Radarr/Radarr) - Radarr is a movie collection manager for Usenet and BitTorrent users
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Sonarr is like Radarr. 
+- [Jackett](https://github.com/Jackett/Jackett) 
+- [qBittorrent.ipnyb](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - A Google Colab that downloads torrents to Google Drive.
+
 ## **Direct Download Sites:**
 **Moderator's Choice: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Best place for any game, this should be the first place you check. Does not allow Scene releases.
 
@@ -72,57 +96,6 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Xatab](https://xatab-repack.com/) 
 - ZAZIX - Torrents
 
-## **Release Networks**
-
-Please note, none of these sites provide downloads, only information on Scene/P2P releases.
-
-- **Moderator's Choice: r/CrackWatch** - Straight to the point for videogames.
-
-Other noteworthy mentions:
-
-- [predb.org](https://predb.org/)
-- [predb.ovh](https://predb.ovh/)
-- [predb.pw](https://predb.pw/)
-- [xREL](https://xrel.to/)
-
-Please note that the "crackwatch" website is not recommended since it is not official.
-
-## **ROM Sites:**
-
-- [CDRomance](https://cdromance.com/)
-- [Edge Emulation](https://edgemu.net/)
-- [Emu Paradise](https://www.emuparadise.me/) - [Use this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) to download.
-- [The Eye](http://the-eye.eu/public/rom/) - Huge ROM Archive 
-- [TheRomDepot](https://theromdepot.com/)
-- [Romulation](https://www.romulation.net/)
-- [r/ROMS](https://reddit.com/r/ROMS)
-- [Vimm's Lair](https://vimm.net/?p=vault)
-- [Ziperto](https://www.ziperto.com/) - DDL site for Nintendo and Playstation ROMS.
-
-## **Torrent Software:**
-
-To torrent, use these programs:
-
-- **Moderators' choice: [Qbittorrent](https://www.qbittorrent.org/download.php)**
-
-Other noteworthy mentions:
-
-- [BiglyBT](https://www.biglybt.com/download/)
-- [Deluge](https://dev.deluge-torrent.org/wiki/Download)
-- [PicoTorrent](https://picotorrent.org/download/)
-- [Transmission](https://transmissionbt.com/download/)
-- [Tixati](https://tixati.com)
-- [LibTorrent](https://www.libtorrent.org/)
-
-## **Torrenting Tools**
-
-- [XIU2's Tracker list](https://github.com/XIU2/TrackersListCollection) - One of the largest torrent tracker collections
-- [NgoSang Tracker list](https://github.com/ngosang/trackerslist)
-- [Radarr](https://github.com/Radarr/Radarr) - Radarr is a movie collection manager for Usenet and BitTorrent users
-- [Sonarr](https://github.com/Sonarr/Sonarr)
-- [Jackett](https://github.com/Jackett/Jackett)
-- [qBittorrent.ipnyb](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - A Google Colab that torrents to google drive.
-
 ## **Direct Downloading Software:**
 
 To direct download, use these programs:
@@ -149,6 +122,31 @@ Other noteworthy mentions:
 - [NeoDebrid](https://neodebrid.com/home)
 - [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
 
+## **Release Networks**
+
+Please note, none of these sites provide downloads, only information on Scene/P2P releases.
+
+- **Moderator's Choice: r/CrackWatch** - Straight to the point for videogames.
+
+Other noteworthy mentions:
+
+- [predb.org](https://predb.org/)
+- [predb.ovh](https://predb.ovh/)
+- [predb.pw](https://predb.pw/)
+- [xREL](https://xrel.to/)
+
+## **ROM Sites:**
+
+- [CDRomance](https://cdromance.com/)
+- [Edge Emulation](https://edgemu.net/)
+- [Emu Paradise](https://www.emuparadise.me/) - [Use this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) to download.
+- [The Eye](http://the-eye.eu/public/rom/) - Huge Open-directory ROM Archive 
+- [TheRomDepot](https://theromdepot.com/)
+- [Romulation](https://www.romulation.net/)
+- [r/ROMS](https://reddit.com/r/ROMS)
+- [Vimm's Lair](https://vimm.net/?p=vault)
+- [Ziperto](https://www.ziperto.com/) - DDL site for Nintendo and Playstation ROMS.
+
 ## **Tools:**
 These tools are helpful with cracking your own games.
 
@@ -174,13 +172,14 @@ These tools are helpful with cracking your own games.
 - [BleachBit](https://www.bleachbit.org/) - System Cleaner, safer than CCLeaner.
 - [Bitwarden](https://bitwarden.com/) - Open Source Password Management Solution.
 - [QuickSFV](https://www.quicksfv.org/download.html) - Verify checksums and generate hash info.
-- [DashHass](https://codeberg.org/CerdaCodes/DashHash) - Alternative to QuickSFV
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - Faster than QuickSFV.
+- [DashHash](https://codeberg.org/CerdaCodes/DashHash) - Alternative to QuickSFV
 - [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
 - [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
 - [CompactGUI](https://github.com/ImminentFate/CompactGUI) 
 - [Radmin VPN](https://www.radmin-vpn.com/) - Usefull if you want to play LAN games with your friends. **Not a subsitute for a normal VPN**
-- [Cyberduck](https://cyberduck.io) - Manage your Cloud Services and copy files to other places. Free and open-source, better than AirExplorer.
-- [AirExplorer](https://airexplorer.net) - Alternative to CyberDuck. Is proprietary and has a paid version which is good.
+- [Cyberduck](https://cyberduck.io) - Manage your Cloud Services and copy files to other places. Free and open-source, alternative to AirExplorer.
+- [AirExplorer](https://airexplorer.net) - Is just like Cyberduck but can do more than it. Is proprietary and has a paid version which is good.
 
 **Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)**
 
@@ -229,12 +228,13 @@ NOTE: DO NOT USE CLOUDFARE DNS OR YOUR ISP'S DNS AS IT IS NOT GOOD AND NOT WORTH
 - nosTEAM - Malware spotted in releases
 - cracked-games.org - Malware Risk.
 - crackingpatching - Malware Risk
-- Pirate Bay - Malware Risk
+- The Pirate Bay - Malware Risk
 - Kickass Torrents - Malware Risk
 - Any site with a scene group name in the URL - **SCENE GROUPS DON'T HAVE SITES!**
 - Seyter/Qoob - Caught with putting miners and malware in releases
-- CorePacks - Repacking group that put malware into releases. 
+- CorePack - Repacking group that put malware into releases. 
 - Fake and Imposter websites impersonating trusted sites and other sites 
+- Any website on YouTube or Google Search leading to Cracked Games or free games, many of them are suspicious and should be kept away from
 
 Anybody caught linking a website the moderators deem unsafe will have their comments removed in order to keep people safe on the subreddit!
 
