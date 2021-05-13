@@ -35,14 +35,14 @@ Other noteworthy mentions:
 
 - [BiglyBT](https://www.biglybt.com/download/) - Torrent client that is available on PC and your mobile Device
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Probably the most popular alternative to qBitTorrent.
-- [PicoTorrent](https://picotorrent.org/download/) 
-- [Transmission](https://transmissionbt.com/download/) 
-- [Tixati](https://tixati.com) - Torrent Client that can be Portable
-- [LibTorrent](https://www.libtorrent.org/) - One of the most popular Torrent Clients
+- [PicoTorrent](https://picotorrent.org/download/) - Open-Source Torrent Client
+- [Transmission](https://transmissionbt.com/download/) - Open-Source, Lightweight, and fast Torrent Client
+- [Tixati](https://tixati.com) - Torrent Client that can be Portable and is pretty simple to use
+- [LibTorrent](https://www.libtorrent.org/) - One of the most popular Torrent Clients that is open-source
 
 ## **Torrenting Tools**
 
-- [XIU2's Tracker list](https://github.com/XIU2/TrackersListCollection) - One of the largest torrent tracker collections
+- [XIU2's Tracker list](https://github.com/XIU2/TrackersListCollection) - One of the largest torrent tracker collections/
 - [NgoSang Tracker list](https://github.com/ngosang/trackerslist) - Tracker Collection that only collects mostly high quality trackers.
 - [Radarr](https://github.com/Radarr/Radarr) - Radarr is a movie collection manager for Usenet and BitTorrent users
 - [Sonarr](https://github.com/Sonarr/Sonarr) - Sonarr is like Radarr. 
