@@ -78,24 +78,24 @@ For a good alternative to CS.RIN.RU on VR Games is VRPirates Discord and Telegra
 
 Repacks are highly compressed game downloads, designed for people with slow/limited internet bandwidth. All listed below are trusted repackers with no malware.
 
-- [BlackBox](http://www.blackboxrepack.com/) 
+- [BlackBox](http://www.blackboxrepack.com/)
 - [CPG Repacks](http://cpgrepacks.site/) - Anime and Japanese game repacks
-- [Dodi](http://dodi-repacks.site/)
+- [Dodi](http://dodi-repacks.site/) - Highly compressed repacks
 - [Darck](https://darckrepacks.com/) - Forum site for Darck and Community repacks.
-- [ElAmigos](https://elamigos.site/)
-- [FitGirl](http://fitgirl-repacks.site/)
+- [ElAmigos](https://elamigos.site/) - Official site for ElAmigos
+- [FitGirl](http://fitgirl-repacks.site/) - One of the best repackers out there. Games are one of the most highly compressed out of everyone else
 - [Gnarly](https://gnarly-repacks.site/) - Classic/Retro and Emulator game Repacks
-- [KaosKrew](https://kaoskrew.org/)
-- [Kapital Sin](http://www.kapitalsin.com/forum/)
-- [M4CKD0GE](https://m4ckd0ge-repacks.me/) 
-- [Masquerade](https://masquerade.site/)
+- [KaosKrew](https://kaoskrew.org/) - Torrent Repacks from KaOs
+- [Kapital Sin](http://www.kapitalsin.com/forum/) - Spanish Forum for Repacks
+- [M4CKD0GE](https://m4ckd0ge-repacks.me/)
+- [Masquerade](https://masquerade.site/) - DDL for Repacks, good quality and has option for GDrive Download. 
 - MR DJ - Torrents
 - R.G. Catalyst - Torrents
 - R.G. Mechanics - Torrents
 - R.G. Revenants - Torrents
 - [SC00T3R Repacks](https://scooter-repacks.site/) - Repacks for Online-Fixes and Games
-- [Le Fishe Repacks](https://lefishe-repacks.rf.gd) 
-- [Xatab](https://xatab-repack.com/) 
+- [Le Fishe Repacks](https://lefishe.rf.gd/) - Small Game repacker that has a lot of games. Good quality
+- [Xatab](https://xatab-repack.com/)
 - ZAZIX - Torrents
 
 ## **Direct Downloading Software:**
@@ -121,8 +121,8 @@ Other noteworthy mentions:
 - [AllDebrid](https://alldebrid.com/)
 - [Premiumize](https://www.premiumize.me/)
 - [Deepbrid](https://www.deepbrid.com/service) - Free Debrid service
-- [NeoDebrid](https://neodebrid.com/home)
-- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
+- [NeoDebrid](https://neodebrid.com/home) - Free Debrid Service like DeepBrid
+- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Wiki for best use of download limited file hosters and download sites. 
 
 ## **Release Networks**
 
@@ -135,6 +135,7 @@ Other noteworthy mentions:
 - [predb.org](https://predb.org/)
 - [predb.ovh](https://predb.ovh/)
 - [predb.pw](https://predb.pw/)
+- [predb.de](https://predb.de/)
 - [xREL](https://xrel.to/)
 
 ## **ROM Sites:**
@@ -224,17 +225,17 @@ NOTE: DO NOT USE CLOUDFARE DNS OR YOUR ISP'S DNS AS IT IS NOT GOOD AND NOT WORTH
 
 ## **Untrusted sites:**
 
-- IGG Games / PC Games Torrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM in indie games and exploit you for ad revenue.
+- IGG Games / PC Games Torrents - they doxxed Mercs213 (owner of GoodOldDownloads), package their own DRM in indie games and exploit you for ad revenue.
 - BBRepacks - Fake BlackBox Repacks, contain malware.
 - OceanOfGames - High malware risk.
 - nosTEAM - Malware spotted in releases
 - cracked-games.org - Malware Risk.
 - crackingpatching - Malware Risk
-- The Pirate Bay - Malware Risk
-- Kickass Torrents - Malware Risk
+- The Pirate Bay - High Malware Risk
+- Kickass Torrents - High Malware Risk
 - Any site with a scene group name in the URL - **SCENE GROUPS DON'T HAVE SITES!**
 - Seyter/Qoob - Caught with putting miners and malware in releases
-- CorePack - Repacking group that put malware into releases. 
+- CorePack - Repacking group that put malware into releases. Releases are nuked now, remaining ones are fine
 - Fake and Imposter websites impersonating trusted sites and other sites 
 - Any website on YouTube or Google Search leading to Cracked Games or free games, many of them are suspicious and should be kept away from
 
@@ -244,4 +245,4 @@ Anybody caught linking a website the moderators deem unsafe will have their comm
 
 **If you have any recommendations for the Mega Thread, please comment below! Unsafe sites will be removed by the moderators.**
 
-- Edited by Rekulous 
+- Edited by Rekulous and others! ;)
