@@ -64,7 +64,7 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Scooter Repacks](https://scooter-repacks.site/)
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX
-- [Le Fishe Repacks](https://lefishe-repacks.rf.gd/)
+- [Le Fishe Repacks](https://lefishe.rf.gd/)
 
 
 ## **Release Networks**
