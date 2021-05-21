@@ -40,6 +40,14 @@ Other noteworthy mentions:
 - [Tixati](https://tixati.com) - Torrent Client that can be Portable and is pretty simple to use
 - [LibTorrent](https://www.libtorrent.org/) - One of the most popular Torrent Clients that is open-source
 
+## **Paid Games that don't require a Pirated Version to play!**
+
+These games normally have community remakes, source ports, alternative versions, etc.
+
+- [Plutonium](https://plutonium.pw) - Free, Community made remaster of Call of Duty: Black Ops 2, Modern Warfare 3, and World at War. Provides a little bit of a fresh new experience, fixes problems with the original games, and is very good. Provides server lists, dedicated servers, online gameplay, and customizabale options for your gameplay.
+- [OpenRA](https://www.openra.net/) - Free, Open-Source, and community made remaster of Command & Conquer: Tiberian Daw, Red Alert 1, and DUNE 2000. Its pretty good and feels a bit like the original game with fixes, refreshment, better graphics, etc. Their official website provides more details.
+- [PowerSlaveEX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view) - PowerSlaveEX was a free and open-source, PowerSlave Playstation Version source-port/remaster for PC. I only have the Windows Version of this game available. If you want info about this awesome FPS game that was probably as good as DOOM, watch Br0leg's YouTube video about it: https://www.youtube.com/watch?v=kyXDWWzMvXw 
+
 ## **Torrenting Tools**
 
 - [XIU2's Tracker list](https://github.com/XIU2/TrackersListCollection) - One of the largest torrent tracker collections/
