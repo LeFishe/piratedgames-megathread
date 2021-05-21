@@ -13,7 +13,7 @@ A highly edited version of the [r/PiratedGames Megathread](https://rentry.org/pg
 
 Other noteworthy mentions:
 
-- [1337X](https://1337x.to/) - Has lots of content, well moderated. Before going there though, don't torrent from IGGGAMESCOM, haxNode, or CracksHash as they are suspicious users and had uploaded malware in the past.
+- [1337X](https://1337x.to/) - Has lots of content, well moderated. Before going there though, don't torrent from IGGGAMESCOM, haxNode, nosTeam, crackingpatching, or CracksHash as they are suspicious users and had uploaded malware in the past.
 - [Mac Torrents](https://mac-torrents.io/mac-games/) - Mac torrents.
 - [NXMAC](https://nxmac.com/) - MAC games.
 - [RuTor](http://www.rutor.info/) - Russian Torrent Tracker.
