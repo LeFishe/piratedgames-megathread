@@ -56,7 +56,7 @@ These games normally have community remakes, source ports, alternative versions,
 - [Radarr](https://github.com/Radarr/Radarr) - Radarr is a movie collection manager for Usenet and BitTorrent users
 - [Sonarr](https://github.com/Sonarr/Sonarr) - Sonarr is like Radarr. 
 - [Jackett](https://github.com/Jackett/Jackett) 
-- [qBittorrent.ipnyb](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - A Google Colab that downloads torrents to Google Drive.
+- [qBittorrent.ipnyb](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - A Google Colab that downloads torrents from qBitTorrent to Google Drive.
 
 ## **Direct Download Sites:**
 **Moderator's Choice: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Best place for any game, this should be the first place you check. Does not allow Scene releases.
@@ -68,7 +68,7 @@ These games normally have community remakes, source ports, alternative versions,
 - [Gamesdrive.co](https://gamesdrive.co/) - Repacks and Scene game downloads.
 - [GOG Games](https://gog-games.com/) - GOG Games.
 - [Mobilism](https://forum.mobilism.org/index.php) - Mobile apps and games.
-- [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
+- [MyAbandonware](https://www.myabandonware.com/) - Mostly consists of free downloads for old, retro, and abandoned games that aren't sold in official stores like Steam, Epic, GOG, etc. This won't have every classic game you want (For example: Doom, Duke Nukem 3D, and BLOOD), but if you are into Abandonware stuff, this is a treasure trove for you!
 - [Online-fix.me](https://online-fix.me/) - Online multiplayer games.
 - [Ovagames](http://www.ovagames.com/) - DDL Games.
 - [RLSBB](https://rlsbb.ru/) - DDL Scene Releases.
