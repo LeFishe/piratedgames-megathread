@@ -214,7 +214,7 @@ Using a privacy-focused DNS can speed up your browsing experience as well as mak
 
 More trusted DNS providers can be found [here](https://www.privacytools.io/providers/dns/).
 
-NOTE: DO NOT USE CLOUDFARE DNS OR YOUR ISP'S DNS AS IT IS NOT GOOD AND NOT WORTH USING AND THEY CAN SPY ON WHAT YOU ARE LOOKING AT
+NOTE: I don't recommend you using CloudFare DNS or your ISP's DNS for pirating as they can spy on what you are browsing on.
 
 ## **VPNs:**
 
