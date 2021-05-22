@@ -152,6 +152,7 @@ Other noteworthy mentions:
 - [predb.pw](https://predb.pw/)
 - [predb.de](https://predb.de/)
 - [xREL](https://xrel.to/)
+- [CrackSnoop](https://github.com/CrackSnoop/cracksnoop)
 
 ## **ROM Sites:**
 
