@@ -264,3 +264,4 @@ Anybody caught linking a website the moderators deem unsafe will have their comm
 **If you have any recommendations for the Mega Thread, please comment below! Unsafe sites will be removed by the moderators.**
 
 - Edited by Rekulous and others! ;)
+I would really appreciate it if you fork this version of the Pirated Games Megathread, edit it, and open a pull-request for changes. Thanks!
