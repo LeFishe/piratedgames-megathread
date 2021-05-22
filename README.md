@@ -65,7 +65,7 @@ These games normally have community remakes, source ports, alternative versions,
 
 - [CrackHub](https://crackhub.site/) - DDL for scene games and FitGirl repacks.
 - [GLOAD](https://gload.cc/) - German DDL site.
-- [Gamesdrive.co](https://gamesdrive.co/) - Repacks and Scene game downloads.
+- [Gamesdrive.co](https://gamesdrive.co/) - Repacks and Scene game downloads. No Signup is required for downloads.
 - [GOG Games](https://gog-games.com/) - GOG Games.
 - [Mobilism](https://forum.mobilism.org/index.php) - Mobile apps and games.
 - [MyAbandonware](https://www.myabandonware.com/) - Mostly consists of free downloads for old, retro, and abandoned games that aren't sold in official stores like Steam, Epic, GOG, etc. This won't have every classic game you want (For example: Doom, Duke Nukem 3D, and BLOOD), but if you are into Abandonware stuff, this is a treasure trove for you!
@@ -89,14 +89,14 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 
 - [BlackBox](http://www.blackboxrepack.com/)
 - [CPG Repacks](http://cpgrepacks.site/) - Anime and Japanese game repacks
-- [Dodi](http://dodi-repacks.site/) - Highly compressed repacks
+- [DODI](http://dodi-repacks.site/) - Highly compressed repacks
 - [Darck](https://darckrepacks.com/) - Forum site for Darck and Community repacks.
 - [ElAmigos](https://elamigos.site/) - Official site for ElAmigos
 - [FitGirl](http://fitgirl-repacks.site/) - One of the best repackers out there. Games are one of the most highly compressed out of everyone else
 - [Gnarly](https://gnarly-repacks.site/) - Classic/Retro and Emulator game Repacks
-- [KaosKrew](https://kaoskrew.org/) - Torrent Repacks from KaOs
+- [KaOsKrew](https://kaoskrew.org/) - Torrent Repacks from KaOs
 - [Kapital Sin](http://www.kapitalsin.com/forum/) - Spanish Forum for Repacks
-- [M4CKD0GE](https://m4ckd0ge-repacks.me/)
+- [M4CKD0GE](https://m4ckd0ge-repacks.me/) - Game ROMs and Game Repacks
 - [Masquerade](https://masquerade.site/) - DDL for Repacks, good quality and has option for GDrive Download. 
 - MR DJ - Torrents
 - R.G. Catalyst - Torrents
@@ -127,11 +127,12 @@ A debrid service will convert premium / slow file host links into faster downloa
 
 Other noteworthy mentions:
 
-- [AllDebrid](https://alldebrid.com/)
+- [AllDebrid](https://alldebrid.com/) - Good alternative to Real-Debrid
 - [Premiumize](https://www.premiumize.me/)
 - [Deepbrid](https://www.deepbrid.com/service) - Free Debrid service
 - [NeoDebrid](https://neodebrid.com/home) - Free Debrid Service like DeepBrid
-- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Wiki for best use of download limited file hosters and download sites. 
+- [LeechAll](https://leechall.com) - Free Debrid Service
+- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Wiki for best use of download limited file hosters and download sites using Free Debrids. 
 
 ## **Release Networks**
 
@@ -227,8 +228,8 @@ NOTE: I don't recommend you using CloudFare DNS or your ISP's DNS for pirating a
 
 ## **Unsafe software:**
 
-- Bittorrent - Same as Utorrent, has ads, trackers, and is unsafe.
-- Utorrent - Same as Bittorrent, has ads, trackers, and is unsafe.
+- BitTorrent - Same as uTorrent, has ads, trackers, and is unsafe.
+- uTorrent - Same as BitTorrent, has ads, trackers, and is unsafe.
 - CCleaner - Owned by Avast.
 - Avast - Notorious for collecting and selling user data.
 
