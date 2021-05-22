@@ -41,14 +41,6 @@ Other noteworthy mentions:
 - [Tixati](https://tixati.com) - Torrent Client that can be Portable and is pretty simple to use
 - [LibTorrent](https://www.libtorrent.org/) - One of the most popular Torrent Clients that is open-source
 
-## **Paid Games that don't require a Pirated Version to play!**
-
-These games normally have community remakes, source ports, alternative versions, etc.
-
-- [Plutonium](https://plutonium.pw) - Free, Community made remaster of Call of Duty: Black Ops 2, Modern Warfare 3, and World at War. Provides a little bit of a fresh new experience, fixes problems with the original games, and is very good. Provides server lists, dedicated servers, online gameplay, and customizabale options for your gameplay.
-- [OpenRA](https://www.openra.net/) - Free, Open-Source, and community made remaster of Command & Conquer: Tiberian Daw, Red Alert 1, and DUNE 2000. Its pretty good and feels a bit like the original game with fixes, refreshment, better graphics, etc. Their official website provides more details.
-- [PowerSlaveEX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view) - PowerSlaveEX was a free and open-source, PowerSlave Playstation Version source-port/remaster for PC which was taken down years ago. I only have the Windows Version of this game available including the mouse moving fix patch (Without this patch, it would make the game completely unplayable). In this game, you play as a marine fighting against the evil, Alien forces in Karnak, Egypt that killed the people there and turned them into egyption themed mosters like Anubis Headed Men, Mummies, Leopard Monsters, etc. There are an assortment of weapons from a Machete, Revolver, M60, a FlameThrower, Grenades, Homing Snake Rockets, etc. Another thing about this game is that there are powerups that give you special abilities and cool stats. If you want info about this awesome FPS game that was probably as good as DOOM, watch Br0leg's YouTube video about it: https://www.youtube.com/watch?v=kyXDWWzMvXw 
-
 ## **Torrenting Tools**
 
 - [XIU2's Tracker list](https://github.com/XIU2/TrackersListCollection) - One of the largest torrent tracker collections/
@@ -57,6 +49,14 @@ These games normally have community remakes, source ports, alternative versions,
 - [Sonarr](https://github.com/Sonarr/Sonarr) - Sonarr is like Radarr. 
 - [Jackett](https://github.com/Jackett/Jackett) 
 - [qBittorrent.ipnyb](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - A Google Colab that downloads torrents from qBitTorrent to Google Drive.
+
+## **Paid Games that don't require a Pirated Version to play!**
+
+These games normally have community remakes, source ports, alternative versions, etc.
+
+- [Plutonium](https://plutonium.pw) - Free, Community made remaster of Call of Duty: Black Ops 2, Modern Warfare 3, and World at War. Provides a little bit of a fresh new experience, fixes problems with the original games, and is very good. Provides server lists, dedicated servers, online gameplay, and customizabale options for your gameplay.
+- [OpenRA](https://www.openra.net/) - Free, Open-Source, and community made remaster of Command & Conquer: Tiberian Daw, Red Alert 1, and DUNE 2000. Its pretty good and feels a bit like the original game with fixes, refreshment, better graphics, etc. Their official website provides more details.
+- [PowerSlaveEX](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view) - PowerSlaveEX was a free and open-source, PowerSlave Playstation Version source-port/remaster for PC which was taken down years ago. I only have the Windows Version of this game available including the mouse moving fix patch (Without this patch, it would make the game completely unplayable). In this game, you play as a marine fighting against the evil, Alien forces in Karnak, Egypt that killed the people there and turned them into egyption themed mosters like Anubis Headed Men, Mummies, Leopard Monsters, etc. There are an assortment of weapons from a Machete, Revolver, M60, a FlameThrower, Grenades, Homing Snake Rockets, etc. Another thing about this game is that there are powerups that give you special abilities and cool stats. If you want info about this awesome FPS game that was probably as good as DOOM, watch Br0leg's YouTube video about it: https://www.youtube.com/watch?v=kyXDWWzMvXw.
 
 ## **Direct Download Sites:**
 **Moderator's Choice: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Best place for any game, this should be the first place you check. Does not allow Scene releases.
@@ -72,9 +72,10 @@ These games normally have community remakes, source ports, alternative versions,
 - [Online-fix.me](https://online-fix.me/) - Online multiplayer games.
 - [Ovagames](http://www.ovagames.com/) - DDL Games.
 - [RLSBB](https://rlsbb.ru/) - DDL Scene Releases.
+- [DownloadHa](https://downloadha.com) - DDL Games. Use a translator like MATE Translate Browser Extension on here as the site is in Persian. This site is good and has a lot of up-to-date stuff, sometimes you might see some unsafe uploaders from the unsafe or untrusted list, if that's the case, don't go for that download and pick another option or a different site instead. 
 - [SCNLOG.ME](https://scnlog.me/) - DDL Scene Releases.
 - [SteamUnlocked](https://steamunlocked.net/) - Pre-Installed Steam games for ease of use
-- [Torrminatorr Forum](https://forum.torrminatorr.com/) - DDL games - Scene games and GOG Releases.
+- [Torrminatorr Forum](https://forum.torrminatorr.com/) - DDL games - Scene games and GOG Releases including a bunch of Linux Games.
 - [The MegaDrive Discord](https://discord.gg/FQ6EaprXyr) - Large Open-Directory of games and other media from the community. From repacks made by their own community to pre-installations and cracks. 
 
 Oculus Quest users can download games from [this thread](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) on [CS.RIN.RU](http://cs.rin.ru/) forum. [This post](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) is also helpful.
@@ -204,12 +205,13 @@ These tools are helpful with cracking your own games.
 
 These don't help much with online piracy, but will make your browsing much more private and safe.
 
-- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Free Content Delivery localization to protect privacy and browsing.
+- [Decentraleyes](https://decentraleyes.org) - Free Content Delivery localization to protect privacy and browsing.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Force HTTPS Connections on your Web Browser and be warned when a connection isn't secure.
 - [Privacy Badger](https://privacybadger.org/) - Tracker Blocker for Chrome and FireFox (This is redundant and shouldn't be used with uBlock Origin, so get that instead).
 - [Ublock Origin](https://github.com/gorhill/uBlock) - Wide-Scale Content blocker and AdBlocker
 - [Universal Bypass](https://universal-bypass.org/) - Bypass stupid and annoying Link Shorteners like bit.ly 
 - [LocalCDN](localcdn.org) - Alternative to Decentraleyes that is kept more up-to-date with extra features and CDNs added.
+- [MATE Translate](https://gikken.co/mate-translate/) - Privacy Friendly alternative to Google Translate that is better. Scroll down to the bottom of the page for web browser extension translator.
 
 ## **DNS:**
 
@@ -219,7 +221,7 @@ Using a privacy-focused DNS can speed up your browsing experience as well as mak
 
 More trusted DNS providers can be found [here](https://www.privacytools.io/providers/dns/).
 
-NOTE: I don't recommend you using CloudFare DNS or your ISP's DNS for pirating as they can spy on what you are browsing on.
+NOTE: **I don't recommend you using CloudFare DNS or your ISP's DNS for pirating as they can spy on what you are browsing on. You can get caught from your ISP.**
 
 ## **VPNs:**
 
