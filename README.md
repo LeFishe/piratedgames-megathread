@@ -97,14 +97,18 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [KaOsKrew](https://kaoskrew.org/) - Torrent Repacks from KaOs
 - [Kapital Sin](http://www.kapitalsin.com/forum/) - Spanish Forum for Repacks
 - [M4CKD0GE](https://m4ckd0ge-repacks.me/) - Game ROMs and Game Repacks
-- [Masquerade](https://masquerade.site/) - DDL for Repacks, good quality and has option for GDrive Download. 
+- [Masquerade](https://masquerade.site/) - DDL for Repacks, good quality and has option for GDrive Download.
+- [LEGENDARYREPACKS/CORTANA5](https://legendaryrepacks.simplesite.com/) - Retro/Classic, 2D, Indie, and ROM Game Repacks similar to Gnarly. Good Quality
+- [SC00T3R Repacks](https://scooter-repacks.site/) - Repacks for Online-Fixes and lots of games
+- [Le Fishe Repacks](https://lefishe.rf.gd/) - Small Game repacker that has a lot of games. Good quality
+- [CyNiCAL](https://discord.gg/7BuWBJgAEE) - Used to be called "STFU Repacks"
+- [Xatab](https://xatab-repack.com/)
+- [MineRocker](https://minerocker-repacksite.000webhostapp.com/) - Small game Repacker that has funny installer music and good quality repacks
+- [REKULOUS](https://discord.gg/zSXWwzav7R) - Small game Repacker that mainly does Indie Games and Retro Games including some Big Games.
 - MR DJ - Torrents
 - R.G. Catalyst - Torrents
 - R.G. Mechanics - Torrents
 - R.G. Revenants - Torrents
-- [SC00T3R Repacks](https://scooter-repacks.site/) - Repacks for Online-Fixes and Games
-- [Le Fishe Repacks](https://lefishe.rf.gd/) - Small Game repacker that has a lot of games. Good quality
-- [Xatab](https://xatab-repack.com/)
 - ZAZIX - Torrents
 
 ## **Direct Downloading Software:**
@@ -230,6 +234,8 @@ NOTE: I don't recommend you using CloudFare DNS or your ISP's DNS for pirating a
 
 - BitTorrent - Same as uTorrent, has ads, trackers, and is unsafe.
 - uTorrent - Same as BitTorrent, has ads, trackers, and is unsafe.
+- BitLord - Probably the most unsafe one on the list, this has ads, trackers, is obscure, stuffed with trackers, and is unsafe.
+- BitComet - Torrent Client that is adware, has trackers, and is unsafe.
 - CCleaner - Owned by Avast.
 - Avast - Notorious for collecting and selling user data.
 
@@ -244,7 +250,7 @@ NOTE: I don't recommend you using CloudFare DNS or your ISP's DNS for pirating a
 - The Pirate Bay - High Malware Risk
 - Kickass Torrents - High Malware Risk
 - Any site with a scene group name in the URL - **SCENE GROUPS DON'T HAVE SITES!**
-- Seyter/Qoob - Caught with putting miners and malware in releases
+- Seyter/Qoob - Caught with putting miners and malware in repacks. Qoob used to be called Seyter, but then changed his name.
 - CorePack - Repacking group that put malware into releases. Releases are nuked now, remaining ones are fine
 - Fake and Imposter websites impersonating trusted sites and other sites 
 - Any website on YouTube or Google Search leading to Cracked Games or free games, many of them are suspicious and should be kept away from
