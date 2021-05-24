@@ -1,6 +1,7 @@
 ## r/PiratedGames MegaThread PLUS! 
 
 **Here's the r/PiratedGames Mega Thread!**
+
 An edited version of the [r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread) that adds much more tools, sites, downloads, software, etc. I maintain this by myself with the help with some others like Tasky Lizard. It is updated constantly if I need to update something, or remove something. I also add stuff as well every now and then if I discover something sweet.
 
 ## **INFO**
