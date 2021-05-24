@@ -88,7 +88,7 @@ For a good alternative to CS.RIN.RU on VR Games is VRPirates Discord and Telegra
 
 Repacks are highly compressed game downloads, designed for people with slow/limited internet bandwidth. All listed below are trusted repackers with no malware.
 
-- [BlackBox](http://www.blackboxrepack.com/)
+- [BlackBox](http://www.blackboxrepack.com/) - Team repackers from Egypt that give out quality repacks in a nice installer.
 - [CPG Repacks](http://cpgrepacks.site/) - Anime and Japanese game repacks
 - [DODI](http://dodi-repacks.site/) - Highly compressed repacks
 - [Darck](https://darckrepacks.com/) - Forum site for Darck and Community repacks.
@@ -99,11 +99,11 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Kapital Sin](http://www.kapitalsin.com/forum/) - Spanish Forum for Repacks
 - [M4CKD0GE](https://m4ckd0ge-repacks.me/) - Game ROMs and Game Repacks
 - [Masquerade](https://masquerade.site/) - DDL for Repacks, good quality and has option for GDrive Download.
-- [LEGENDARYREPACKS/CORTANA5](https://legendaryrepacks.simplesite.com/) - Retro/Classic, 2D, Indie, and ROM Game Repacks similar to Gnarly. Good Quality
+- [LEGENDARYREPACKS/CORTANA5](https://legendaryrepacks.simplesite.com/) - Retro/Classic, 2D, Indie, and ROM Game Repacks similar to Gnarly. Good Quality (Use Universal Bypass and uBlock on their site)
 - [SC00T3R Repacks](https://scooter-repacks.site/) - Repacks for Online-Fixes and lots of games
 - [Le Fishe Repacks](https://lefishe.rf.gd/) - Small Game repacker that has a lot of games. Good quality
 - [CyNiCAL](https://discord.gg/7BuWBJgAEE) - Used to be called "STFU Repacks"
-- [Xatab](https://xatab-repack.com/)
+- [Xatab](https://xatab-repack.com/) - Now deceased Repacker. Had good quality repacks.
 - [MineRocker](https://minerocker-repacksite.000webhostapp.com/) - Small game Repacker that has funny installer music and good quality repacks
 - [REKULOUS](https://discord.gg/zSXWwzav7R) - Small game Repacker that mainly does Indie Games and Retro Games including some Big Games.
 - MR DJ - Torrents
@@ -265,4 +265,4 @@ Anybody caught linking a website the moderators deem unsafe will have their comm
 **If you have any recommendations for the Mega Thread, please comment below! Unsafe sites will be removed by the moderators.**
 
 - Edited by Rekulous and others! ;)
-I would really appreciate it if you fork this version of the Pirated Games Megathread, edit it, and open a pull-request for changes. Thanks!
+**I would really appreciate it if you fork this version of the Pirated Games Megathread, edit it, and open a pull-request for changes. Thanks!**
