@@ -8,6 +8,7 @@ An edited version of the [r/PiratedGames Megathread](https://rentry.org/pgames-m
 
 - [What are scene releases or Cracks?](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/)
 - [What are Torrents?](https://en.wikipedia.org/wiki/BitTorrent)
+- [FAQ](https://www.reddit.com/r/piracy/wiki/faq#wiki_.25BA_games)
 
 ## **Torrent Sites:**
 - **Moderators' choice: [RARBG](https://rarbg.to/)** - Safe torrents, best quality.
